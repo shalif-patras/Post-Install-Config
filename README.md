@@ -30,23 +30,17 @@ This tutorial outlines the post-install-configuration of the open-source help de
 <h2>Configuration Steps</h2>
 
 <p>
-<img src="https://i.imgur.com/4xfIm7X.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/MpifgUJ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/9YDcvVS.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Configure "Roles" Click Admin Panel on the top right hand side ->Agents ->Roles.
-</p>
-<br />
-
-<p>
-<img src="https://i.imgur.com/LYlJ8B6.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Give a name Example "Supreme Admin" and give all permissions.
+Configure "Roles" Click Admin Panel on the top right hand side ->Agents ->Roles.Give a name Example "Supreme Admin" and give all permissions.
 </p>
 <br />
 
+
 <p>
-<img src="https://i.imgur.com/sKP40EY.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/vpAw2pS.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 After give all permissions, Check all the Tasks and knowlegebase boxes as well and click Add role.
@@ -54,36 +48,24 @@ After give all permissions, Check all the Tasks and knowlegebase boxes as well a
 <br />
 
 <p>
-<img src="https://i.imgur.com/ZEQUIMl.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/niC8UL2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/G7FcfGO.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Configure "Departments" Admin Panel -> Agents -> Departments -> New Department. 
+Configure "Departments" Admin Panel -> Agents -> Departments -> Add new Department "System Administrators" click create Dept.
 </p>
 <br />
 
+
 <p>
-<img src="https://i.imgur.com/eBU387n.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/2p6kFok.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/zsgF2QE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Add new Department "System Administrators" click create Dept.
+Configure "Teams" Admin Panel -> Agents -> Teams -> Add New Team, Name: Level I Support - Level II Support and click on create Team.
 </p>
 <br />
 
-<p>
-<img src="https://i.imgur.com/vdMutBg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Configure "Teams" Admin Panel -> Agents -> Teams -> Add New Team.
-</p>
-<br />
-
-<p>
-<img src="https://i.imgur.com/7DPJjup.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Name: Level II Support - Level III Support and click on create Team.
-</p>
-<br />
 
 <p>
 <img src="https://i.imgur.com/mF329vK.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
@@ -105,7 +87,7 @@ Click on set Password.
 <br />
 
 <p>
-<img src="https://i.imgur.com/umwbCws.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/HMCcnFD.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Uncheck the box -> create a new password and set.
@@ -113,7 +95,7 @@ Uncheck the box -> create a new password and set.
 <br />
 
 <p>
-<img src="https://i.imgur.com/f9N2ATl.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/a8uGoUe.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 After set a new password go to Access tab and select Department, Role, Teams according to your requirements and click create. 
